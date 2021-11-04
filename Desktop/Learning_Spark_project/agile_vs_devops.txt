@@ -1,0 +1,119 @@
+Database Development Professional with proven track record in developing, implementing and for Production Support.
+For 20+ years, raised the bar higher, delivering projects on time, implementing cost effective processes saving man hours and reducing error ratios. 
+When required was available off hours for production Support, deployments saving high-risk multimillion-dollar projects, there by mining for organizational value. 
+Energized Team members and bridged gaps between diversified branches, worked through to manage client, and business expectations.
+
+Following were the skills i used across my positions inthe companies that i worked for:
+ ● SQL ● PL/SQL  ● Unix Scripting ● Python ● .Net ● HTML ● Informatica ● Agile Methodology ● Data Modeling ● Cognos 8.0 Report net, Power Play ● Crystal Reports 7.0 ● MS Access ● MS Visio ● Rally ● Visual Source Safe● SVN
+
+
+https://www.upgrad.com/blog/devops-vs-agile-difference-between-devops-and-agile/
+
+https://www.simplilearn.com/what-is-data-modeling-article
+
+The Agile Mindset
+In essence, Agile is a mindset. The creators of the Agile Manifesto laid down the 12 principles of Agile software development to explain it better:
+
+Satisfying your customers through continuous and early delivery of products should be your highest priority.
+If your project requirements change even in the later stages of development, you should welcome them.
+You should deliver a working product (software) often whether you launch it in a few weeks or months.
+Daily collaboration between the project’s stakeholders and the developers is a must.
+Your project should be built around motivated people. You must give them the environment and support they require, 
+and you must trust them that they will complete the job.
+A face-to-face conversation is the most effective and efficient method of transferring information to and within your development team.
+Working product (software) is the critical measure of your progress.
+You should promote sustainable development. Your team, the stakeholders, the users, and the developers should be able to maintain a steady flow without hindrances.
+You should give constant attention to technical excellence, and good design improves agility
+Keeping processes simple, as in, reducing the work you need to do, is vital.
+Self-organizing teams generate the best designs, requirements, and architectures. 
+Your team should reflect on getting more active and then adjust its behavior accordingly. 
+You’d notice that the primary principles of Agile development focus on user satisfaction the most. 
+From releasing a working product frequently to having a good design, all of the fundamental values of this approach are focused on keeping the users happy. 
+
+Read: DevOps v Agile
+
+And it’s true. Your users (or clients) don’t care about your software documentation or your future strategies. They care about how soon they get the product, how fast they get the bug fixes, and what value the products offer to them. 
+
+Differences between Agile and Waterfall
+So you know that before the rise of Agile development, the Waterfall model was the most popular one. The Waterfall model has lost its popularity, 
+but that doesn’t mean it’s obsolete. Many teams are still using this method. There are many differences between these two approaches that make them distinct. 
+
+The agile model focuses on an iterative and incremental approach to software development,    
+    whereas in the Waterfall model, your software development takes place sequentially from the start to end. 
+You’d have to break down an agile project into individual models. But you won’t have to do that in the Waterfall approach.
+Your customers get early and frequent access to your working product in the agile approach. 
+   They can give you feedback accordingly and let you change your future work plan. 
+    On the other hand, your customers will get access to the product only when it’s finished if you follow the Waterfall approach.
+The agile model is unstructured, whereas, the Waterfall model is structured and so, many consider it more secure.
+Agile development is excellent for small projects as you can complete them fast. 
+   The Waterfall method is great for large projects because you can make more accurate estimations and complete the plan accordingly.
+There is less planning in Agile development in comparison to Waterfall development.
+You execute a development process in iterations of a few weeks when you follow an agile approach. 
+   On the other hand, with the Waterfall approach, you’ll complete the development process in phases, and a stage is bigger than an iteration. 
+With an agile approach, you can fix errors in the middle of the process as you get feedback frequently. With the Waterfall approach, you’ll test the end product at the end and never before that. 
+  If you find an error in the end product, you’d have to restart the project right from the start. 
+Documentation gets less priority in agile development in comparison to Waterfall development. 
+   In fact, in the latter, you might use the documentation for training your staff as well. 
+Once an iteration ends in agile development, you send the shippable features to your customers directly.
+   The customers can use those features right after receiving them. 
+   In the Waterfall approach, you’d send all the features of your product altogether when you finish the project after the phase.
+In the agile approach, the testers and developers collaborate, whereas, in the Waterfall approach, they don’t. 
+You’d perform user acceptance at the end of every sprint in Agile. In the Waterfall method, you’d perform user acceptance at the end of your project. 
+Agile development requires developers to communicate closely and regularly for planning and analysis. 
+    In Waterfall development, developers don’t take part in the planning process and are only concerned with the coding phase. 
+Agile Methodology Steps
+Agile methodologies are of many kinds. We’ll discuss the most prominent ones among them briefly. You can refer to a methodology as a specific set of conventions your team chooses to follow. Your different teams can have different methodologies. Agile methodologies are those which follow the core values and principles of Agile development we discussed before. There are the following Agile methodologies:
+
+Scrum
+Kanban
+DSDM (Dynamic Software Development Method)
+Crystal Methodologies
+FDD (Feature Driven Development)
+XP (eXtreme Programming)
+Let’s discuss the primary ones below:
+
+
+--------------********
+Methodology 1: SCRUM
+SCRUM is a framework that focuses on empowering teams to work together. It is a heuristic. It focuses on adjusting to factors that fluctuate and continuous learning. It understands that a team doesn’t necessarily know everything at the start of the task. Scrum is based on the strategies of rugby teams. 
+
+It focuses on enhancing the collaboration in a team by dividing it into smaller ones, just like a rugby team does. You see, a rugby team has different groups of players who have specific responsibilities. In Scrum, your team also gets divided into smaller groups. 
+
+Scrum has three primary artifacts that are an increment, a sprint backlog, and a product backlog. Let’s discuss each one of them briefly to understand Scrum better:
+
+Product Backlog
+
+Product backlog refers to the primary list of tasks your team needs to perform. The responsibility of maintaining this list goes to the product manager or product owner. 
+It’s the to-do list of the group as it contains the requirements, fixes, enhancements, and features that are the input for the next artifact, sprint backlog. 
+
+Sprint Backlog
+
+This artifact contains a list of bug fixes and items your development teams select for the particular sprint cycle. 
+However, a sprint backlog is quite flexible, and you have the option of modifying it during the sprint if required. 
+
+Increment
+
+Another name for an increment is the sprint goal. It refers to the end-product you get from a sprint. The sprint goal is the ultimate result of your development team. And you can say you’ve achieved this goal only when you’ve completed the entire process. 
+
+Suppose your team needed to publish an app on the Play Store. In this case, you can say that you’ve achieved the sprint goal when you hit the publish button. 
+
+As we mentioned earlier, Scrum divides your team into smaller segments. The first segment would be the Scrum Master, who has the responsibility of completing the team setup and management of sprint meetings. The second one is the Product Owner who has to create the product backlog and oversee the delivery at the end of every iteration. 
+
+The last one is the Scrum Team, which works on the sprint cycle. 
+
+
+--------------********
+
+Top (12) "Soft Skills" Essential to I.T. Credibility
+I.T. managers must prioritize work requests according to needs and capabilities.
+I.T. managers must handle complaints without getting defensive (to have a thick skin).
+I.T. managers must communicate effectively (verbally and in writing).
+I.T. managers must recognize and learn from mistakes (and own up to them).  Also See:  Common Management Mistakes and How to Avoid Them.
+I.T. managers must "read" people, situations and to know how to respond accordingly.
+I.T. managers must be open to reasonable, calculated risk.  Also See:  Are You Ready for a Risky Project?
+I.T. managers must delegate work responsibilities as appropriate.  Also See:  How to Delegate With Minimal Risk
+I.T. managers must anticipate objections and pre-empt problems.
+I.T. managers must make every end-user feel "important" and well served.
+I.T. managers must keep an open mind and stay away from the "not invented here" syndrome.
+I.T. managers must display a willingness to act (and avoid analysis paralysis).  Also See:  Recognizing and Avoiding Analysis Paralysis.
+I.T. managers must avoid the tendency to micro-manage as an instinctive means of just getting things done.

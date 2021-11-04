@@ -1,0 +1,75 @@
+Onboarding Website:  https://envision.bbo.bullhornstaffing.com
+Username: varalug@gmail.com
+Password:  testvalue
+
+intellipaat
+varal@hotmail.com
+intel@123
+
+=============
+GCP
+=============
+
+
+https://www.youtube.com/watch?v=NFwNKkIkN6o&list=PLe1T0uBrDrfOYE8OwQvooPjmnP1zY3wFe&index=1
+
+
+Real-Time Apache Spark Project | Real-Time Data Analysis | End to End - https://www.youtube.com/playlist?list...
+
+Please watch the complete video series of this project, to explore more details on this project.
+
+Real-Time Apache Spark Project | Real-Time Data Analysis | End to End: https://www.youtube.com/playlist?list...
+
+A complete project guide with source code for the below project video series: https://www.datasciencewiki.com/p/dat...
+
+Apache Spark Project | Meetup RSVP Stream Processing | Real-World Project: https://www.youtube.com/playlist?list...
+
+Apache Spark, Hadoop Project with Kafka and Python, End to End Development | Code Walk-through - https://www.youtube.com/playlist?list...
+
+1. Setting up Apache Hadoop - https://youtu.be/FzH7K4N0kT8
+2. Setting up Apache Hive and MySQL
+Part 1: https://youtu.be/Mi0m78a5W4U
+Part 2: https://youtu.be/Jw5lbJF1q9I
+
+
+=========================
+
+https://youtu.be/xc85L9YYL7E
+
+Please watch the complete video series of this project, to explore more details on this project.
+
+Real-Time Apache Spark Project | Real-Time Data Analysis | End to End: https://www.youtube.com/playlist?list...
+
+A complete project guide with source code for the below project video series: https://www.datasciencewiki.com/p/dat...
+
+Apache Spark Project | Meetup RSVP Stream Processing | Real-World Project: https://www.youtube.com/playlist?list...
+
+Apache Spark, Hadoop Project with Kafka and Python, End to End Development | Code Walk-through - https://www.youtube.com/playlist?list...
+
+4. Setting up Apache Spark
+Part 1: https://youtu.be/hXLr1dMWVVE
+Part 2: https://youtu.be/690DO_lXkns
+5. Setting up Apache Cassandra 
+6. Setting up Anaconda Python 2 - https://youtu.be/5QxjpObdn68
+
+DM, DataMaking, Data Making, Data Science, Data Engineering
+
+
+
+Real-Time Apache Spark Project | Real-Time Data Analysis | End to End: https://www.youtube.com/playlist?list...
+
+A complete project guide with source code for the below project video series: https://www.datasciencewiki.com/p/dat...
+
+Apache Spark Project | Meetup RSVP Stream Processing | Real-World Project: https://www.youtube.com/playlist?list...
+
+Apache Spark, Hadoop Project with Kafka and Python, End to End Development | Code Walk-through - https://www.youtube.com/playlist?list...
+
+7. Setting up Anaconda Python 3
+8. Setting up Apache Superset 
+9. Setting up PyCharm IDE
+Part 1: https://youtu.be/PIa_-aMHYrg
+Part 2: https://youtu.be/F4TSZ0jcUTE
+
+
+One of the best way to run PySpark code using Jupyter Notebook | PySpark 101 | Part 20 - 
+https://youtu.be/5QxjpObdn68
